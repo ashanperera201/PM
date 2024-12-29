@@ -1,0 +1,11 @@
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\bin\Debug\net9.0\PM.CORE.deps.json
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\bin\Debug\net9.0\PM.CORE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\bin\Debug\net9.0\PM.CORE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\PM.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\PM.CORE.AssemblyInfoInputs.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\PM.CORE.AssemblyInfo.cs
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\PM.CORE.csproj.CoreCompileInputs.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\PM.CORE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\refint\PM.CORE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\PM.CORE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.CORE\obj\Debug\net9.0\ref\PM.CORE.dll

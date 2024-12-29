@@ -1,0 +1,17 @@
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\bin\Debug\net9.0\PM.INFRASTRUCTURE.deps.json
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\bin\Debug\net9.0\PM.INFRASTRUCTURE.runtimeconfig.json
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\bin\Debug\net9.0\PM.INFRASTRUCTURE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\bin\Debug\net9.0\PM.INFRASTRUCTURE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\bin\Debug\net9.0\PM.CORE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\bin\Debug\net9.0\PM.CORE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRA.F49D336E.Up2Date
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\refint\PM.INFRASTRUCTURE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\PM.INFRASTRUCTURE.genruntimeconfig.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.INFRASTRUCTURE\obj\Debug\net9.0\ref\PM.INFRASTRUCTURE.dll

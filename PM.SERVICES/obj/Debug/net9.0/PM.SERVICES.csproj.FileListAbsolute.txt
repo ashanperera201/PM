@@ -1,0 +1,17 @@
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.SERVICES.deps.json
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.SERVICES.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.SERVICES.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.CORE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.INFRASTRUCTURE.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.CORE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\bin\Debug\net9.0\PM.INFRASTRUCTURE.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.csproj.AssemblyReference.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.AssemblyInfoInputs.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.AssemblyInfo.cs
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVI.59048D9B.Up2Date
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\refint\PM.SERVICES.dll
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\PM.SERVICES.pdb
+C:\Users\AshanPerera\Desktop\RND\PM\PM.SERVICES\obj\Debug\net9.0\ref\PM.SERVICES.dll

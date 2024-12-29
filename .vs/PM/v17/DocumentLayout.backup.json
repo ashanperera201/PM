@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A4AC-BC4C-4E80-B061-3D21FA1257AC}|PM.TEST\\PM.TEST.csproj|c:\\users\\ashanperera\\desktop\\rnd\\pm\\pm.test\\unittests\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959A4AC-BC4C-4E80-B061-3D21FA1257AC}|PM.TEST\\PM.TEST.csproj|solutionrelative:pm.test\\unittests\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A4AC-BC4C-4E80-B061-3D21FA1257AC}|PM.TEST\\PM.TEST.csproj|c:\\users\\ashanperera\\desktop\\rnd\\pm\\pm.test\\pm.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3959A4AC-BC4C-4E80-B061-3D21FA1257AC}|PM.TEST\\PM.TEST.csproj|solutionrelative:pm.test\\pm.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-29T08:52:52.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PM.TEST",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\PM.TEST\\PM.TEST.csproj",
+              "RelativeDocumentMoniker": "PM.TEST\\PM.TEST.csproj",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\PM.TEST\\PM.TEST.csproj",
+              "RelativeToolTip": "PM.TEST\\PM.TEST.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T08:15:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\PM.TEST\\UnitTests\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "PM.TEST\\UnitTests\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\RND\\PM\\PM.TEST\\UnitTests\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "PM.TEST\\UnitTests\\Services\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:13:43.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

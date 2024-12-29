@@ -1,0 +1,87 @@
+﻿@using PM.CORE.DTOs
+@model IEnumerable<PM.CORE.DTOs.CategoryStatsDto>
+
+@{
+    ViewData["Title"] = "Product Reports";
+    var highestValueCategory = ViewBag.HighestValueCategory as CategoryStatsDto;
+}
+
+<div class="container mt-4">
+    <!-- Category Statistics -->
+    <div class="card mb-4">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Category Statistics</h4>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Average Price</th>
+                            <th>Total Stock</th>
+                            <th>Stock Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var stat in Model)
+                        {
+                            <tr>
+                                <td>@stat.Category</td>
+                                <td>@stat.AveragePrice.ToString("C2")</td>
+                                <td>@stat.TotalStock</td>
+                                <td>@stat.StockValue.ToString("C2")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Highest Stock Value Category -->
+    @if (highestValueCategory != null)
+    {
+        <div class="card">
+            <div class="card-header bg-success text-white">
+                <h4 class="mb-0">Highest Stock Value Category</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <h5>Category</h5>
+                                <p class="lead">@highestValueCategory.Category</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <h5>Average Price</h5>
+                                <p class="lead">@highestValueCategory.AveragePrice.ToString("C2")</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <h5>Total Stock</h5>
+                                <p class="lead">@highestValueCategory.TotalStock</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <h5>Stock Value</h5>
+                                <p class="lead">@highestValueCategory.StockValue.ToString("C2")</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
